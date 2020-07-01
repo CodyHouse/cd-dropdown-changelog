@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2020-07-01
+- New .js classes to control dropdown behavior
+
 ## [1.1.0] - 2020-03-24
 - Added viewport awareness: dropdown position changes based on the available space
 
