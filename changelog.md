@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2020-07-03
+- Prevent double-tap link issue on mobile
+
 ## [1.1.1] - 2020-07-01
 - New .js classes to control dropdown behavior
 
