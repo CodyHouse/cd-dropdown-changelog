@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.3] - 2020-09-11
+- Hide .dropdown__trigger-icon element on touch devices
+
 ## [1.1.2] - 2020-07-03
 - Prevent double-tap link issue on mobile
 
