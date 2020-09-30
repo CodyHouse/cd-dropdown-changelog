@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.4] - 2020-09-30
+- Improved dropdown placement
+
 ## [1.1.3] - 2020-09-11
 - Hide .dropdown__trigger-icon element on touch devices
 
